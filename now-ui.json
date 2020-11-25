@@ -1,0 +1,15 @@
+{
+	"components": {
+	    "x-290424-major-incidents": {
+	        "innerComponents": ["now-template-card", "major-incidents-item", "now-template-card-assist", "now-toggle"],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "Major Incidents",
+				"icon": "document-outline",
+				"description": "List of major incidents",
+				"category": "primitives"
+			}
+	    }
+	},
+	"scopeName": "x_290424_major_i_0"
+}
