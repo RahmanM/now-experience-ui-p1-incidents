@@ -29,7 +29,7 @@
 		"lodash": "^4.17.20"
 	},
 	"devDependencies": {
-		"@servicenow/cli-archetype-dev": "18.0.0",
-		"@servicenow/cli-component-archetype-dev": "18.0.0"
+		"@servicenow/cli-archetype-dev": "24.0.1",
+		"@servicenow/cli-component-archetype-dev": "24.0.1"
 	}
 }
